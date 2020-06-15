@@ -42,6 +42,9 @@ and documentation, who to contact about what, etc.
 
 If you want to build Kubernetes right away there are two options:
 
+## go version reqiured at 20200615
+wget https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz
+
 ##### You have a working [Go environment].
 
 ```
